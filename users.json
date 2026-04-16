@@ -1,0 +1,19 @@
+{
+    "Alii": {
+        "interests": [
+            "ai",
+            "fitness"
+        ],
+        "history": []
+    },
+    "Ali": {
+        "interests": [
+            "ai",
+            "python",
+            "fitness"
+        ],
+        "history": [
+            "Python Masterclass"
+        ]
+    }
+}
